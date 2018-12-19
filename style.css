@@ -1,0 +1,46 @@
+
+
+ul { 
+ text-align: left;
+ color: red;
+        }
+
+h3 { color: green;
+      text-align: left; }
+
+#container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.flex {
+  
+  margin: 10px;
+  padding: 10px;
+}
+#makassy {
+  margin-top: 10px;
+}
+#subbody
+{
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 20px;
+  flex-direction: wrap;
+  flex-direction: column;
+
+  background-size: 70%;
+  color: black;
+  background-image:url("kong.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-left: 1%;
+
+}
+#c
+{
+  margin-left: 25%;
+  font-size: 20px;
+}
